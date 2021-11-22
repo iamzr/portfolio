@@ -39,8 +39,12 @@ const skills = [
   "React",
   "Node",
   "Express",
+  "MongoDB",
+  "SQL",
   "Python",
   "MATLAB",
+  "Java",
+  "R",
   "Linux",
 ];
 
