@@ -1,6 +1,7 @@
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
+import { ArrowRightIcon } from "@heroicons/react/solid";
 
 function Projects() {
   return (
@@ -12,8 +13,18 @@ function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Check out a selection of my projects below!
+            Check out a selection of my projects below and go to my github for
+            more!
           </p>
+          <div className="flex justify-center mt-3">
+            <a
+              href="https://www.github.com/iamzr"
+              className="inline-flex items-center text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+            >
+              Github
+              <ArrowRightIcon className="w-4 h-4 ml-1" />
+            </a>
+          </div>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
