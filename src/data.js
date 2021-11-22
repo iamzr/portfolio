@@ -13,7 +13,7 @@ const projects = [
     description:
       "An webapp that allows you to simply input your information and get out a professional-looking CV.",
     image: "/cv.png",
-    link: "https://reedbarger.com",
+    link: "https://inspiring-roentgen-64c9fe.netlify.app/",
   },
   {
     title: "Inventory Manager",
