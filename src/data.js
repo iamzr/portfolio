@@ -36,7 +36,7 @@ const skills = [
   "C#",
   "Python",
   "Rust",
-  "JaveScript",
+  "JavaScript",
   "TypeScript",
   "React",
   "Node",
