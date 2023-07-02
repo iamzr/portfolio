@@ -11,8 +11,8 @@ function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm a full-stack developer specialising in the MERN stack with an
-            interest in working on projects that make a difference!
+            I'm a software engineer with an interest in working on projects that
+            make a difference!
           </p>
           <div className="flex justify-center">
             <a

@@ -33,17 +33,19 @@ const projects = [
 ];
 
 const skills = [
-  "HTML",
-  "CSS",
-  "Javascript",
+  "C#",
+  "Python",
+  "Rust",
+  "JaveScript",
+  "TypeScript",
   "React",
   "Node",
   "Express",
   "MongoDB",
   "SQL",
-  "Python",
   "MATLAB",
-  "Java",
+  "HTML",
+  "CSS",
   "R",
   "Linux",
 ];
