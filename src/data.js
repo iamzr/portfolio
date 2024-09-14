@@ -5,7 +5,7 @@ const projects = [
     description:
       "This project consists of two parts. Firstly, a RESTful API that would serve as a backend for a blog, able to handle posts, comments and users. Secondly, a react-based front-end that could be used to view published posts, as well as make comments on them.",
     image: "/blog.png",
-    link: "https://romantic-ptolemy-02f9cb.netlify.app/",
+    link: "",
   },
   {
     title: "CV Maker",
@@ -21,7 +21,7 @@ const projects = [
     description:
       "A webapp for retail phone stores to handle stock. Functions include viewing all existing stock, sorting via category or brand as well as an overview of details for any device in the database.",
     image: "/inventory.png",
-    link: "https://infinite-coast-89327.herokuapp.com/inventory/devices",
+    link: "",
   },
   {
     title: "Calculator",
